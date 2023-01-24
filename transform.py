@@ -9,7 +9,7 @@ Website: https://www.kylieying.com
 Github: https://www.github.com/kying18 
 Programmer Beast Mode Spotify playlist: https://open.spotify.com/playlist/4Akns5EUb3gzmlXIdsJkPs?si=qGc4ubKRRYmPHAJAIrCxVQ 
 """
-# 
+
 from image import Image
 import numpy as np
 
